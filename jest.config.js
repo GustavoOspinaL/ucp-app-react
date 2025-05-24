@@ -3,4 +3,4 @@ module.exports = {
         'default',
         ['jest-junit', { outputDirectory: './', outputName: 'junit.xml' }]
     ]
-}; 
+};
